@@ -8,5 +8,6 @@ namespace project_01_learner_gradebook
 {
     internal class AssessmentMarks
     {
+        protected List<int> assessmentMarks;
     }
 }
